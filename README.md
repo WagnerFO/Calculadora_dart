@@ -59,4 +59,5 @@ dart run bin/dart_application_1.dart
 
 ### 🧪 Exemplo de uso
 Digite a operação: 23+34-4*6+235/2
-150.5
+
+Resultado irá dar: 150.5
